@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/WORKSPACE/libs/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/WORKSPACE/libs/jersey-client-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/WORKSPACE/libs/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/WORKSPACE/libs/jersey-core-1.8.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
